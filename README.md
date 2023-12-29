@@ -25,30 +25,6 @@ Apart from coding and data analysis, I find joy in creating music with my piano 
 I believe in the importance of a balanced lifestyle. Regular trips to the gym and spending time outdoors keep me energized and focused.
 
 
-## 💻 My Setup
-
-### Personal Computer
-
-- **Model:** Apple Mac Studio (2023)
-- **Processor:** Apple M2 Max (12 Core CPU, 30 Core GPU)
-- **RAM:** 32GB
-- **Storage:** 1 TB SSD
-- **Graphics Card:** [Your Graphics Card, e.g., NVIDIA GTX XXX]
-
-### Other Tools
-
-- **iPad:** iPad Pro 12.9" (4th generation)
-- **Headphones:** AirPods Max
-- **Mouse:** Logitech G304
-
-## 🌱 Current Learning Focus
-
-I'm always eager to learn and grow. Currently, I'm:
-
-- 📈 Exploring advanced data analysis techniques in Python
-- 📚 Diving into economic models and theories to deepen my understanding
-- 🎵 Learning new songs on the guitar, ukulele, and piano
-
 ## 📫 Get in Touch
 
 Feel free to reach out for collaboration, discussions, or just a friendly chat!
