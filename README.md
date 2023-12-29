@@ -6,20 +6,24 @@ I'm a 17-year-old with a passion for Economics, Programming, and the great outdo
 - 📚 Currently studying Economics with a focus on Data Analysis, simulations, and predictions.
 - 💻 Proficient in Python, with expertise in libraries like Pandas, NumPy, and Matplotlib.
 - 🌐 Actively working on private projects.
-- 🎸 When I'm not coding, you'll find me immersed in music, playing guitar, ukulele, and piano
-- 🎨 I draw :)
+- 🎸 When I'm not coding, you'll find me immersed in music, playing guitar, ukulele, and piano.
 
-## 🌐 Connect with Me
+## 🚀 Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&labelColor=blue)](YOUR_LINKEDIN_PROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&labelColor=1DA1F2)](YOUR_TWITTER_PROFILE)
+- **Project 1: [Project Name](link-to-repository)**
+  Description of the project, what you achieved, and the technologies used.
 
-## 🖌️ Artistic Pursuits
+- **Project 2: [Project Name](link-to-repository)**
+  Brief overview of another project you're proud of.
 
-In my free time, I immerse myself in artistic endeavors to find inspiration and balance:
+## 🎹🎸 Hobbies
 
-- 🎨 Exploring different styles through drawing and painting
-- 🖥️ Creating digital art that reflects my diverse interests and emotions
+Apart from coding and data analysis, I find joy in creating music with my piano and guitar. It's a great way to unwind and express my creativity.
+
+## 🌳 Outdoor Enthusiast
+
+I believe in the importance of a balanced lifestyle. Regular trips to the gym and spending time outdoors keep me energized and focused.
+
 
 ## 💻 My Setup
 
