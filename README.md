@@ -1,13 +1,13 @@
 # Hi there! 👋 I'm Maddie
 
-I'm Maddie, a 17-year-old economics enthusiast who combines the power of Python programming with economic analysis. I'm passionate about leveraging technology to solve real-world economic challenges.
+I'm a 17-year-old with a passion for Economics, Programming, and the great outdoors. When I'm not crunching numbers or writing code, you'll find me playing the piano and guitar or breaking a sweat at the gym.
 
 ## 🚀 About Me
-
-- 📘 Currently diving into the world of economics and its fascinating intersections with technology
-- 💻 Proficient in Python; using it as a tool to analyze economic trends and data
+- 📚 Currently studying Economics with a focus on Data Analysis, simulations, and predictions.
+- 💻 Proficient in Python, with expertise in libraries like Pandas, NumPy, and Matplotlib.
+- 🌐 Actively working on private projects.
 - 🎸 When I'm not coding, you'll find me immersed in music, playing guitar, ukulele, and piano
-- 🎨 I express my creativity through drawing, painting, and digital art
+- 🎨 I draw :)
 
 ## 🌐 Connect with Me
 
