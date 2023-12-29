@@ -21,22 +21,21 @@ In my free time, I immerse myself in artistic endeavors to find inspiration and 
 - 🎨 Exploring different styles through drawing and painting
 - 🖥️ Creating digital art that reflects my diverse interests and emotions
 
-## 💻 My Gear
+## 💻 My Setup
 
 ### Personal Computer
 
-- **Model:** [Your PC Model]
-- **Processor:** [Your Processor, e.g., Intel i7-XXXX]
-- **RAM:** [Your RAM Size, e.g., 16GB]
-- **Storage:** [Your Storage Size, e.g., 512GB SSD]
+- **Model:** Apple Mac Studio (2023)
+- **Processor:** Apple M2 Max (12 Core CPU, 30 Core GPU)
+- **RAM:** 32GB
+- **Storage:** 1 TB SSD
 - **Graphics Card:** [Your Graphics Card, e.g., NVIDIA GTX XXX]
 
 ### Other Tools
 
-- **iPad:** [Your iPad Model]
-- **Favorite IDE:** [Your preferred code editor or IDE]
-- **Headphones:** [Your Headphones]
-- **Mouse:** [Your Mouse]
+- **iPad:** iPad Pro 12.9" (4th generation)
+- **Headphones:** AirPods Max
+- **Mouse:** Logitech G304
 
 ## 🌱 Current Learning Focus
 
