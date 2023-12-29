@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Maddie!
+# Hi there! 👋 I'm Maddie
 
 I'm Maddie, a 17-year-old economics enthusiast who combines the power of Python programming with economic analysis. I'm passionate about leveraging technology to solve real-world economic challenges.
 
