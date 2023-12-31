@@ -18,11 +18,11 @@ I'm a 17-year-old with a passion for Economics, Programming, and the great outdo
 
 ## 🎹🎸 Hobbies
 
-Apart from coding and data analysis, I find joy in creating music with my piano and guitar. It's a great way to unwind and express my creativity.
+Apart from coding and data analysis, I find enjoy playing my piano and guitar. It's a great way to unwind and express my creativity.
 
 ## 🌳 Outdoor Enthusiast
 
-I believe in the importance of a balanced lifestyle. Regular trips to the gym and spending time outdoors keep me energized and focused.
+I believe in the importance of a balanced lifestyle. Regular trips to the gym and spending time outdoors keep me energized and focused. So get out in the fresh air!!! ;)
 
 
 ## 📫 Get in Touch
@@ -33,5 +33,4 @@ Feel free to reach out for collaboration, discussions, or just a friendly chat!
 - 🌐 Portfolio: [Your Portfolio Website]
 - 📷 Instagram: [Your Instagram]
 
-<!-- Feel free to add any other sections that showcase your skills, projects, or achievements. -->
 
